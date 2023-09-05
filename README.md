@@ -28,7 +28,7 @@ Please refer to license in the repo.
 
 ## How to contribute
 
-You have the opportunity to contribute to this Guide by visiting the GitHub repository at https://github.com/rudrijoshi/Assignment1/ and the URL of the deployed application is https://rudrijoshi.github.io/Assignment1/
+You have the opportunity to contribute to this Guide by visiting the GitHub repository at https://github.com/rudrijoshi/Horiseon_webpage/ and the URL of the deployed application is https://rudrijoshi.github.io/Horiseon_webpage/
 
 I sincerely appreciate your visit to my website and your support in my ongoing learning journey.
 
